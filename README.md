@@ -15,7 +15,7 @@ An RFM model comes up with numeric values for the three measures above. These va
 
 ## Dataset
 
-E-Commerce Dataset in used which ca be downloaded from the following link.
+E-Commerce Dataset in used which can be downloaded from the following link.
 
 [Download](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
